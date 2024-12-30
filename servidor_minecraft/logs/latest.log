@@ -1,22 +1,8 @@
-[23:54:21] [Server thread/INFO]: Starting minecraft server version 1.8
-[23:54:22] [Server thread/INFO]: Loading properties
-[23:54:22] [Server thread/INFO]: Default game type: ADVENTURE
-[23:54:22] [Server thread/INFO]: Generating keypair
-[23:54:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:54:23] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
-[23:54:23] [Server thread/WARN]: The exception was: java.net.BindException: Address already in use
-[23:54:23] [Server thread/WARN]: Perhaps a server is already running on that port?
-[23:55:00] [Server thread/INFO]: An unknown error occurred while attempting to perform this command
-[23:55:00] [Server thread/ERROR]: Couldn't process command: 'stop'
-java.lang.ArrayIndexOutOfBoundsException: 0
-	at net.minecraft.server.MinecraftServer.func_174792_t_(MinecraftServer.java:1342) ~[MinecraftServer.class:?]
-	at net.minecraft.command.ServerCommandManager.func_152372_a(SourceFile:86) ~[cl.class:?]
-	at net.minecraft.command.CommandBase.func_152374_a(SourceFile:502) ~[z.class:?]
-	at net.minecraft.command.CommandBase.func_152373_a(SourceFile:497) ~[z.class:?]
-	at net.minecraft.command.server.CommandStop.func_71515_b(SourceFile:22) ~[cu.class:?]
-	at net.minecraft.command.CommandHandler.func_175786_a(CommandHandler.java:108) [ab.class:?]
-	at net.minecraft.command.CommandHandler.func_71556_a(CommandHandler.java:85) [ab.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71333_ah(DedicatedServer.java:400) [po.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71228_a(DedicatedServer.java:321) [po.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:491) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_432]
+[00:06:28] [Server thread/INFO]: Starting minecraft server version 1.8
+[00:06:29] [Server thread/INFO]: Loading properties
+[00:06:29] [Server thread/INFO]: Default game type: ADVENTURE
+[00:06:29] [Server thread/INFO]: Generating keypair
+[00:06:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:06:29] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[00:06:29] [Server thread/WARN]: The exception was: java.net.BindException: Address already in use
+[00:06:29] [Server thread/WARN]: Perhaps a server is already running on that port?
